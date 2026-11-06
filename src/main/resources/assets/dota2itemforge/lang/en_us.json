@@ -1,0 +1,13 @@
+{
+  "itemGroup.dota2itemforge": "Dota 2 Item Forge",
+  "block.dota2itemforge.example_block": "Development Block",
+  "item.dota2itemforge.example_item": "Development Food",
+
+  "dota2itemforge.configuration.title": "Dota 2 Item Forge Settings",
+  "dota2itemforge.configuration.section.dota2itemforge.common.toml": "Dota 2 Item Forge Settings",
+  "dota2itemforge.configuration.section.dota2itemforge.common.toml.title": "Dota 2 Item Forge Settings",
+  "dota2itemforge.configuration.items": "Items to Log",
+  "dota2itemforge.configuration.logDirtBlock": "Log Dirt Block Registry ID",
+  "dota2itemforge.configuration.magicNumberIntroduction": "Diagnostic Message Prefix",
+  "dota2itemforge.configuration.magicNumber": "Diagnostic Number"
+}
